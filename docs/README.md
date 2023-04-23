@@ -19,14 +19,14 @@
 
   - Download Python 3.8 [here](https://www.python.org/downloads/release/python-38)
   - Open the installer and click on: `add python to PATH`
-  - Download overload <a href="https://github.com/7zx/overload/archive/refs/heads/main.zip" target="blank">here</a>
+  - Download overload <a href="https://github.com/234945/overload/archive/refs/heads/main.zip" target="blank">here</a>
   - Open CMD or PowerShell in the overload directory
   - Execute this command: `pip3 install -r requirements.txt or python -m pip install -r requirements.txt`  
 
 
  
 
- <h2>Linux</h2><img src="https://raw.githubusercontent.com/8fn/overload/main/img/linux-icon-28166.png" width="50" height="50">
+ <h2>Linux</h2><img src="https://raw.githubusercontent.com/234945/overload/main/img/linux-icon-28166.png" width="50" height="50">
 
 ```
 sudo apt update
@@ -41,7 +41,7 @@ pip3 install -r requirements.txt or python -m pip install -r requirements.txt
 ```
 pkg update
 pkg install python3 python3-pip git -y
-git clone https://github.com/7zx/overload
+git clone https://github.com/234945/overload
 cd overload/
 pip3 install -r requirements.txt
 ```
