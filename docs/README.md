@@ -62,6 +62,6 @@ python3 overload.py --time 5000 --threads 550 --target http://127.0.0.1/ --metho
 ## 💰 Donate:
 
 
-  **BTC:** `bc1qhsdvfaee48qpauxzyccyjjxd7laggmlvyzketh` </br>
-  **ETH:** `0xA438762F645A4DcE1a4c7be66D0E787B8cDb30bd` </br>
-  **PayPal:** **https://paypal.me/goncalopolido**
+  **BTC:** `bc1qe9mqtc6upfqeyctzkxhs9nqxwaygdqu4fnmzk0` </br>
+  **ETH:** `0x50Cd22f403C9F8aD58cC5D519009898B97012569` </br>
+  **PayPal:** **heavenosuala@gmail.com**
